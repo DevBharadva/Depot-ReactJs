@@ -1,0 +1,410 @@
+/* .custom-caption {
+  position: absolute;
+  bottom: 20%;
+  left: 10%;
+  color: #000;
+}
+
+.mdb-carousel-indicators {
+  position: absolute;
+  top: 50%;
+  left: 10px;
+  transform: translateY(-50%);
+  display: flex;
+  flex-direction: column;
+}
+
+.mdb-carousel-indicators button {										
+  width: 15px;
+  height: 15px;
+  border-radius: 50%;
+  background-color: #fff;
+  border: 1px solid #000;
+  margin-bottom: 5px;
+}
+
+.mdb-carousel-indicators button.active {
+  background-color: #000;
+}
+
+.carousel-caption {
+  text-align: left;
+} */
+
+@import url('https://fonts.googleapis.com/css2?family=Catamaran:wght@100..900&display=swap');
+
+.menu_item {
+	color: #929292;
+	font-size: 12px;
+	font-weight: 500;
+	line-height: 23px;
+	text-transform: uppercase;
+	letter-spacing: 1px;
+}
+.hearder {
+	background-color: #fff;
+	padding: 25px 0;
+}
+.right_menu a {
+	color: #929292;
+	font-size: 12px;
+	font-weight: 500;
+	line-height: 23px;
+	text-transform: uppercase;
+	letter-spacing: 1px;
+}
+.user {
+    display: ruby;
+}
+
+/* slider start */
+/* .slider-text {
+	position: absolute;
+	display: block;
+	overflow: hidden;
+	height: 100%;
+	width: 100%;
+	z-index: 20;
+	opacity: 1;
+	visibility: inherit;
+	background-color: #f3f3f3;
+}
+.slider_title {
+	font-family: "Catamaran";
+	letter-spacing: 3px;
+	height: auto;
+	width: auto;
+	color:#929292;
+	font-size: 30px;
+}
+.slider-text p{
+		font-family: "Catamaran";
+		color: rgb(153, 153, 153);
+		width: 367px;
+		height: 62px;
+		min-height: 0px;
+		min-width: 0px;
+		line-height: 26px;
+		letter-spacing: 0px;
+		font-weight: 300;
+		font-size: 16px;
+}
+.swiper.swiper-initialized.swiper-horizontal.swiper-backface-hidden.mySwiper {
+	height: 650px;
+	width: 0%;
+	margin: 0 100px;
+}
+.swiper-pagination.swiper-pagination-clickable.swiper-pagination-bullets.swiper-pagination-horizontal {
+	position: absolute;
+	left: -5%;
+	top: 50%;
+	bottom: 50%;
+}
+.swiper-pagination.swiper-pagination-clickable.swiper-pagination-bullets.swiper-pagination-horizontal .swiper-pagination-bullet {
+	width: 50px;
+	height: 2px;
+	border-radius: 0;
+	background: #333;
+	display: block;
+	margin: 30px;
+}
+.swiper-pagination-bullet.swiper-pagination-bullet-active {
+	width: 100px !important;
+	transition: ease 0.5s;
+}
+.swiper.swiper-initialized.swiper-horizontal.swiper-backface-hidden.mySwiper {
+	position: relative;
+}
+.contain {
+	position: absolute;
+	left: 150px;
+	bottom: 50px;
+}
+.text-right{
+	position: absolute;
+	right: 100px;
+}
+.slide-img {
+	position: absolute;
+	top: -150px;
+}
+.slide-img_2 {
+	position: absolute;
+	bottom: -180px;
+	width: 530px;
+	right: 100px;
+}
+.swiper-button-prev::after, .swiper-rtl .swiper-button-next::after {
+	content: 'prev';
+	display: none;
+}
+.swiper-button-next::after, .swiper-rtl .swiper-button-prev::after {
+	content: 'next';
+	display: none;
+} */
+
+.slider-text {
+	position: absolute;
+	display: block;
+	overflow: hidden;
+	height: 100%;
+	width: 100%;
+	z-index: 20;
+	opacity: 1;
+	visibility: inherit;
+	background-color: #f3f3f3;
+   }
+   .slider_title {
+	font-family: "Catamaran";
+	letter-spacing: 3px;
+	height: auto;
+	width: auto;
+	color:#000;
+	font-size: 30px;
+   }
+   .slider-text p{
+	 font-family: "Catamaran";
+	 color: rgb(153, 153, 153);
+	 width: 367px;
+	 height: 62px;
+	 min-height: 0px;
+	 min-width: 0px;
+	 line-height: 26px;
+	 letter-spacing: 0px;
+	 font-weight: 300;
+	 font-size: 16px;
+   }
+   /* .swiper.swiper-initialized.swiper-horizontal.swiper-backface-hidden.mySwiper {
+	height: 650px;
+	margin: 0 100px;
+   } */
+   .swiper-pagination.swiper-pagination-clickable.swiper-pagination-bullets.swiper-pagination-horizontal {
+	position: absolute;
+	left: -3%;
+	top: 50%;
+	bottom: 50%;
+   }
+   .swiper-pagination.swiper-pagination-clickable.swiper-pagination-bullets.swiper-pagination-horizontal .swiper-pagination-bullet {
+	width: 50px;
+	height: 2px;
+	border-radius: 0;
+	background: #333;
+	display: block;
+	margin: 30px;
+   }
+   .swiper-pagination-bullet.swiper-pagination-bullet-active {
+	width: 100px !important;
+	transition: ease 0.5s;
+   }
+   .swiper.swiper-initialized.swiper-horizontal.swiper-backface-hidden.mySwiper {
+	position: relative;
+   }
+   .contain {
+	position: absolute;
+	left: 150px;
+	bottom: 50px;
+   }
+   .text-right{
+	position: absolute;
+	right: 100px;
+   }
+   .slide-img {
+	position: absolute;
+	top: -150px;
+   }
+   .swiper.swiper-initialized.swiper-horizontal.swiper-backface-hidden.mySwiper {
+	position: relative;
+   }
+   .slide-img_2 {
+	position: absolute;
+	bottom: -180px;
+	width: 530px;
+	right: 100px;
+   }
+   .swiper-button-prev::after, .swiper-rtl .swiper-button-next::after {
+	content: 'prev';
+	display: none;
+   }
+   .swiper-button-next::after, .swiper-rtl .swiper-button-prev::after {
+	content: 'next';
+	display: none;
+   }
+   
+   .swiper.swiper-initialized.swiper-horizontal.swiper-backface-hidden.mySwiper {
+ height: 650px;
+ margin: 0 100px;
+}
+
+.dropdown:hover .dropdown-content {
+	display: block;
+  }
+
+  .dropdown-content a {
+	float: none;
+	color: white;
+	padding: 12px 16px;
+	text-decoration: none;
+	display: block;
+	text-align: left;
+  }
+
+  .dropdown-content a:hover{
+	background-color: #444444;
+  }
+
+  .dropdown {
+	float: left;
+	overflow: hidden;
+  }
+  .dropdown-content {
+	display: none;
+	position: absolute;
+	background-color: #111111;
+	color: white;
+	min-width: 140px;
+	box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+	z-index: 1;
+  }
+  .bg-image{
+	background-image: url("https://depot.qodeinteractive.com/wp-content/uploads/2017/01/about-title-img1.jpg");
+	width: 100%;
+	height: 400px;
+	background-position:top;
+	/* position: fixed; */
+  }
+
+  .bg-image1{
+	background-image: url("https://depot.qodeinteractive.com/wp-content/uploads/2017/01/faq-title-img.jpg");
+	width:100%;
+	height: 200px;
+	background-position:center;
+	/* background-repeat: no-repeat; */
+	/* position: fixed; */
+  }
+
+  .text{
+	font-family: Catamaran, sans-serif
+	;
+  }
+
+  .bg-img2{
+	background-image: url("https://depot.qodeinteractive.com/wp-content/uploads/2017/01/faq-title-img.jpg");
+	width: 100%;
+	height: 300px;
+	background-position:top;
+	/* position: fixed; */
+  }
+ 
+
+  /* @media (min-width: 768px) {
+	swiper {
+		width: 100%;
+		height: 100%;
+	}
+	
+	swiper-slide {
+		text-align: center;
+		flex-shrink: 0;
+		font-size: 18px;
+		background: #fff;
+		display: flex;
+		justify-content: center;
+		align-items: center;
+	}
+	
+	swiper-slide img {
+		display: block;
+		width: 100%;
+		height: 100%;
+		object-fit: cover;
+	}
+  } */
+
+
+  /* .dropdown {
+    float:left;
+    overflow: hidden;
+    
+  }
+  
+  .dropdown .dropbtn {
+    font-size: 16px;  
+    border: none;
+    outline: none;
+    color: white;
+    padding: 14px 16px;
+    background-color: inherit;
+    font-family: inherit;
+    margin: 0;
+  }
+  
+  .navbar a:hover, .dropdown:hover .dropbtn {
+    background-color: red;
+  }
+  
+  .dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: white;
+    z-index: 1;
+    right: 0;
+  }
+  
+  .dropdown-content a {
+    float: none;
+    text-decoration: none;
+    display: block;
+    transition: all .5s,  2s .5s linear;
+    transition: all .5s,  2s .5s linear;
+  }
+  
+  .dropdown-content a:hover {
+    background-color: #ddd;
+    
+  }
+
+  .dropdown:hover .dropdown-content {
+    display: block;
+}
+
+
+
+.dropdown-Blog {
+    display: none;
+    position: absolute;
+    background-color: white;
+    z-index: 1;
+  }
+  
+  .dropdown-Blog a {
+    float: none;
+    text-decoration: none;
+    display: block;
+    transition: all .5s,  2s .5s linear;
+    transition: all .5s,  2s .5s linear;
+    min-width: 160px;
+  }
+  
+  .dropdown-Blog a:hover {
+    background-color: #ddd;
+    
+  }
+
+  .dropdown:hover .dropdown-Blog {
+    display: block;
+} */
+
+/* src/Navbar.css */
+
+
+
+/* responsive CSS  */
+
+@media only screen and (max-width: 1024px) {
+	svg.size-6 {
+		display: none;
+	}
+	.text-right.flex.slide-img {
+		width: 300px;
+	}
+  }

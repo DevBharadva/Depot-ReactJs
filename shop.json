@@ -1,0 +1,75 @@
+ [
+      {
+         "id": 1,
+         "image": "https://depot.qodeinteractive.com/wp-content/uploads/2017/01/variable-product-img-505x505.jpg",
+         "title": "VARIABLE PRODUCT",
+         "price": 240
+      },
+      {
+         "id": 2,
+         "image": "https://depot.qodeinteractive.com/wp-content/uploads/2017/01/h1-product-1-505x505.jpg",
+         "title": "TABLE LAMP",
+         "price": 60
+      },
+      {
+         "id": 3,
+         "image": "https://depot.qodeinteractive.com/wp-content/uploads/2017/01/h1-product-2-505x505.jpg",
+         "title": "POTTERY VASE",
+         "price": 390
+      },
+      {
+         "id": 4,
+         "image": "https://depot.qodeinteractive.com/wp-content/uploads/2017/01/h1-product-3-1-505x505.jpg",
+         "title": " ROSE HOLDBACK",
+         "oldprice": 30,
+         "price": 24
+      },
+      {
+         "id": 5,
+         "image": "https://depot.qodeinteractive.com/wp-content/uploads/2017/01/h1-product-4-505x505.jpg",
+         "title": "NEWSPAPER STORAGE",
+         "price": 90
+      },
+      {
+         "id": 6,
+         "image": "https://depot.qodeinteractive.com/wp-content/uploads/2017/01/h1-product-5-505x505.jpg",
+         "title": "WALL CLOCK",
+         "price": 110
+      },
+      {
+         "id": 7,
+         "image": "https://depot.qodeinteractive.com/wp-content/uploads/2017/01/h1-product-6-505x505.jpg",
+         "title": "DECO ACCESSORY",
+         "price": 15
+      },
+      {
+         "id": 8,
+         "image": "https://depot.qodeinteractive.com/wp-content/uploads/2017/01/h1-product-7-505x505.jpg",
+         "title": "FLOWER VASE",
+         "price": 170
+      },
+      {
+         "id": 9,
+         "image": "https://depot.qodeinteractive.com/wp-content/uploads/2017/01/h1-product-8-505x505.jpg",
+         "title": "BASKET WITH HANDLES",
+         "price": 160
+      },
+      {
+         "id": 10,
+         "image": "https://depot.qodeinteractive.com/wp-content/uploads/2017/01/h3-product-2-505x505.jpg",
+         "title": "ELEGANT PENDANT",
+         "price": 290
+      },
+      {
+         "id": 11,
+         "image": "https://depot.qodeinteractive.com/wp-content/uploads/2017/01/h3-product-3-505x505.jpg",
+         "title": "FLOWERING CACTUS",
+         "price": 65
+      },
+      {
+         "id": 12,
+         "image": "https://depot.qodeinteractive.com/wp-content/uploads/2017/01/h3-product-4-505x505.jpg",
+         "title": "SHELL COLLECTION",
+         "price": 25
+      }
+   ]
